@@ -1,0 +1,8 @@
+.blog-wrapper {
+  position: relative;
+  background: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/opening-soon-facebook-cover-design-template-f5c17ccda6fdd89999d41e5267498fa3_screen.jpg?ts=1590066224")
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}

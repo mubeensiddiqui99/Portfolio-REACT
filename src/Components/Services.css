@@ -1,0 +1,11 @@
+.service-wraper {
+  position: relative;
+  background: url("https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
+.card {
+  margin-top: 10rem;
+}
